@@ -4,7 +4,7 @@
 
 # begin & running
 after:
-<pre> <code>git clone https://github.com/zhvoker/ray-tracing.git</code></pre>
+<pre> <code>git clone https://github.com/zhvoker/voker-server.git </code></pre>
 go to the build directory:
 <pre><code>
   ./build.sh
